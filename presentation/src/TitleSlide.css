@@ -1,0 +1,7 @@
+.TitleSlide {
+  display: flex;
+  height: 100vh;
+  background-color: wheat;
+  border: 1px solid darkgray;
+  padding: 10px;
+}
