@@ -1,0 +1,19 @@
+{
+  "name": "managing-large-react-projects",
+  "version": "1.0.0",
+  "description": "Project for exploring how large react projects can be managed.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/matthewdunsdon/managing-large-react-projects.git"
+  },
+  "author": "Matthew Dunsdon",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/matthewdunsdon/managing-large-react-projects/issues"
+  },
+  "homepage": "https://github.com/matthewdunsdon/managing-large-react-projects#readme"
+}
